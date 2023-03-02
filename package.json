@@ -1,0 +1,20 @@
+{
+  "name": "node-crud-api",
+  "version": "1.0.0",
+  "description": "Little test for a CRUD API in Express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KayBeckmann/node-crud-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KayBeckmann/node-crud-api/issues"
+  },
+  "homepage": "https://github.com/KayBeckmann/node-crud-api#readme"
+}
